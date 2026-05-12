@@ -1,4 +1,4 @@
-#  EduSphere — Smart ERP Management System Portal
+EduSphere — Smart ERP Management System Portal
 
 EduSphere is a modern Django-based Smart ERP Management System Platform designed to streamline attendance management, grievance handling, student analytics, and academic monitoring in educational institutions.
 
@@ -6,9 +6,9 @@ Built with a production-oriented architecture, EduSphere combines real-time atte
 
 ---
 
-##  Features
+Features
 
-###  Student Features
+Student Features
 - Smart attendance dashboard
 - Attendance prediction engine
 - Subject-wise attendance analytics
@@ -18,7 +18,7 @@ Built with a production-oriented architecture, EduSphere combines real-time atte
 - Grievance submission & tracking
 - Real-time dashboard updates
 
-###  Teacher Features
+Teacher Features
 - Live attendance session generation
 - 4-digit attendance code system
 - Attendance auto-finalization
@@ -27,13 +27,13 @@ Built with a production-oriented architecture, EduSphere combines real-time atte
 - Subject analytics dashboard
 - Grievance management system
 
-###  Admin Features
+Admin Features
 - Full Django admin panel
 - User management
 - Attendance oversight
 - Analytics overview
 
-###  UI/UX
+UI/UX
 - Modern SaaS-inspired design
 - Dark / Light theme support
 - Mobile responsive layout
@@ -42,7 +42,7 @@ Built with a production-oriented architecture, EduSphere combines real-time atte
 
 ---
 
-##  Tech Stack
+Tech Stack
 
 | Technology | Usage |
 |------------|-------|
@@ -57,7 +57,7 @@ Built with a production-oriented architecture, EduSphere combines real-time atte
 
 ---
 
-##  Project Structure
+Project Structure
 
 ```bash
 EduSphere/
